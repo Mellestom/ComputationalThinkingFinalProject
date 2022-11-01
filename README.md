@@ -1,4 +1,4 @@
-# ComputationalThinkingFinalProject
+# Computational Thinking Final Project
 
 This project includes 3 files that are written in Python
 
